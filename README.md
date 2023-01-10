@@ -116,10 +116,8 @@ To run tests, run the following command:
 `rspec spec`
 
 
-### Deployment
-
-You can deploy this project using:
-> Render <br/>
+## Front End Project Built with REACT
+> `https://github.com/peterboro/hello-react-front-end`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
